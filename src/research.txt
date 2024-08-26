@@ -1,0 +1,6 @@
+https://pubs.rsna.org/doi/epdf/10.1148/radiol.230860
+- good mehtodology on evlauation and review 
+
+https://learnopencv.com/yolov9-instance-segmentation-on-medical-dataset/
+
+https://jaidevd.com/posts/obj-detection-stratification/

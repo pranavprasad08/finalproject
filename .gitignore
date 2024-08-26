@@ -1,0 +1,14 @@
+src/datasets/*
+src/data annotations/*
+
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.jpg
+*.png
+*.tiff
+
+src/.ipynb_checkpoints/*
+
+*.pth
